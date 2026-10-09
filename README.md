@@ -19,6 +19,7 @@ Maps `Caps Lock` as a custom modifier key to output specific emojis instantly wh
 | `Caps Lock` + `D` | 💀 |
 | `Caps Lock` + `L` | 🥰 |
 | `Caps Lock` + `C` | 😭 |
+| `Caps Lock` + `f` | 😂 |
 | `Caps Lock` + `B` | 💔 |
 | `Caps Lock` + `M` | 🗿 |
 | `Caps Lock` + `H` | ❤️ |
